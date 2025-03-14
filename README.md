@@ -1,6 +1,6 @@
 ## A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection
 
-This is the official PyTorch implementation of [HD-OVD]() (TMM 2025).
+This is the official PyTorch implementation of [HD-OVD](https://arxiv.org/abs/2503.10152) (TMM 2025).
 
 ![DETR](./model.png)
 
@@ -63,7 +63,7 @@ If you find our work helpful for your research, please consider citing the follo
 @article{fu2025hdovd,
   title={A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection},
   author={Fu, Shenghao and Yan, Junkai and Yang, Qize and Wei, Xihan and Xie, Xiaohua and Zheng, Wei-Shi},
-  journal={},
+  journal={https://arxiv.org/abs/2503.10152},
   year={2025}
 }
 ```
